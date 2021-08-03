@@ -1,43 +1,27 @@
 # Проект Х
 
+## Summary
+
+1. [Getting Started](#getting-started)
+2. [Prerequisites](#Prerequisites) 
+3. [Installation](#Installation)
+4. [Links](#Links)
+5. [Authors](#authors)
+
+
 ## Getting Started
 
-1. Getting Started
-2.
-3.
-4.
-5.
-
-> $$1LINER
-
-background details relevant to understanding what this module does
-
-## Usage
-
-```javascript
-$$EXAMPLE
-```
-
-## API
-
-```js
-const $$rePo = require('$$REPO')
-```
-
-See [api_formatting.md](api_formatting.md) for tips.
+## Prerequisites
 
 ## Installation
 
-With [npm](https://npmjs.org/):
+## Authors
 
-```shell
-npm install $$REPO
+
+
 ```
 
-With [yarn](https://yarnpkg.com/en/):
 
-```shell
-yarn add $$REPO
-```
 
-## Acknowledgments
+
+
