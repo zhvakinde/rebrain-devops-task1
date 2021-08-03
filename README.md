@@ -11,15 +11,22 @@
 
 ## Getting Started
 
+
+
 ## Prerequisites
+
+* Linux
+* git
+* account gitlab.rebrainme.com
+
 
 ## Installation
 
 Just download the project over HTTPS or with git clone command
 
-...
+```shell
 git clone https://gitlab.rebrainme.com/devops_users_repos/2658/rebrain-devops-task1.git
-...
+```
 
 ## Links
 
@@ -29,6 +36,11 @@ git clone https://gitlab.rebrainme.com/devops_users_repos/2658/rebrain-devops-ta
   for starting
 
 ## Authors
+
+| Name | Email | Post |
+| -------- | -------- | -------- |
+| Dmitrii    | yrosvet@hotmail.com    | Author  |
+| Olga    |yrosvet@hotmail.com  |   Assistant |
 
 
 
