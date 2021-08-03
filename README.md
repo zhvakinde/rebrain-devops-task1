@@ -1,8 +1,8 @@
 # Проект Х
 
-## Содержание
+## Getting Started
 
-1.
+1. Getting Started
 2.
 3.
 4.
