@@ -2,14 +2,14 @@
 
 ## Summary
 
-1. [Getting Started](#getting-started)
+1. [Intro](#Intro)
 2. [Prerequisites](#Prerequisites) 
 3. [Installation](#Installation)
 4. [Links](#Links)
 5. [Authors](#authors)
 
 
-## Getting Started
+## Intro
 
 
 
